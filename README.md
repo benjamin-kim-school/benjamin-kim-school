@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjamin-kim-school
-- 👀 I’m interested in coding, rugby, reading.
+- 👀 I’m interested in coding, rugby, and reading.
 - 🌱 I’m currently learning Java in Computer Science.
 - 📫 Reach me via email: benjamin.kim1@stu.ocsb.ca
 
